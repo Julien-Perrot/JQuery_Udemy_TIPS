@@ -1,0 +1,220 @@
+.events {
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.events p {
+    margin: 50px;
+    padding: 20px;
+}
+
+.effets {
+    width: 300px;
+    margin: auto;
+}
+
+.p-events-1,
+.p-events-9,
+.p-effets-1,
+.p-effets-9,
+.p-effets-15 {
+    background-color: lightblue;
+}
+
+.p-events-2,
+.p-events-10,
+.p-effets-2,
+.p-effets-10,
+.p-effets-16 {
+    display: block;
+    background-color: lightcoral;
+}
+
+.p-events-3,
+.p-events-11,
+.p-effets-3,
+.p-effets-11,
+.p-effets-17 {
+    background-color: lightgoldenrodyellow;
+}
+
+.p-events-4,
+.p-events-12,
+.p-effets-4,
+.p-effets-12,
+.p-effets-18 {
+    background-color: lightgreen;
+}
+
+.p-events-5,
+.p-events-13,
+.p-effets-5,
+.p-effets-13 {
+    background-color: lightpink;
+}
+
+.p-events-7,
+.p-events-15,
+.p-effets-7,
+.p-effets-14 {
+    background-color: lightskyblue;
+}
+
+.marge {
+    margin: 50px 0px;
+}
+.color-div {
+    width: 200px;
+    height: 200px;
+    background-color: lightskyblue;
+    position: relative;
+    left: 50px;
+    margin-top: 30px;
+}
+
+.color-div-2 {
+    width: 200px;
+    height: 200px;
+    background-color: lightseagreen;
+    position: relative;
+    left: 50px;
+    margin-top: 30px;
+}
+
+.color-div-3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 224, 224);
+    position: relative;
+    left: 50px;
+    margin-top: 30px;
+}
+
+.color-div-4 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(27, 9, 43);
+    position: relative;
+    left: 50px;
+    margin-top: 30px;
+}
+
+.color-div-5 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(59, 59, 10);
+    position: relative;
+    left: 50px;
+    margin-top: 30px;
+}
+
+.color-div-6 {
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    margin-top: 30px;
+}
+
+.display-marge {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px 0px;
+}
+
+.color-div-7 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(240, 128, 203);
+    margin-top: 30px;
+}
+
+.color-div-8 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(141, 240, 128);
+    margin-top: 30px;
+}
+
+.animation {
+    margin: 100px;
+}
+
+.jquery-html {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 50px;
+    background-color: lightslategrey;
+}
+
+.jquery-html p {
+    padding: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.size {
+    font-size: 30px;
+}
+
+.center {
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+#main {
+    border: 5px solid lightcoral;
+    margin: 20px;
+}
+
+.top-arbo {
+    text-align: center;
+}
+
+.btn-arborescence {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#div-1 {
+    border: 10px solid lightgreen;
+    margin: 30px;
+}
+
+#div-2 {
+    border: 10px solid lightseagreen;
+    margin: 30px;    
+}
+
+#div-3 {
+    border: 10px solid lightslategray;
+    margin: 30px;
+}
+
+#div-1 p,
+#div-2 p,
+#div-3 p {
+    border: 5px solid lightskyblue;
+    margin: 20px;
+}
+
+.div-ajax {
+    margin: 100px;
+}
